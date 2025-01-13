@@ -1,4 +1,4 @@
-# Weather Project: Raspberry Pi Measures Temperature and Pressure
+# Weather Project
 
 Raspberry Weather on projekti, jossa käytetään Raspberry Pi -tietokonetta sekä erilaisia sensoreita ympäristön mittaamiseen. Projekti kerää tietoja, kuten lämpötila ilmanpaine, ja esittää ne käyttäjälle selkeästi.
 
